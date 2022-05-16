@@ -1,4 +1,4 @@
-<div align="center">
+<div align='center'>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&animation=fadeIn&height=330&text=Min&fontSize=60&desc=Frontend%20Developer&fontColor=cccccc"/>
 
@@ -9,11 +9,10 @@
   <h2> Technology Stack 🖥 </h2>
   <br>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=box8741&theme=tokyonight&layout=compact&title_color=6dd5ed&border_color=2193b0&text_color=cccccc"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=box8741&theme=tokyonight&layout=compact&title_color=6dd5ed&border_color=2193b0&text_color=cccccc&card_width=440"/>
 
-<div align='left'>
-  <br>
-  <div>
+  <div style='margin:14px auto 0 0;'>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Native-444444?style=flat-square&logo=React&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -48,6 +47,6 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6dd5ed,100:2193b0&height=120)
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6dd5ed,100:2193b0&height=120"/>
 
 </div>
