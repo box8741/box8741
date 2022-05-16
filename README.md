@@ -12,7 +12,7 @@
 <hr>
 <br/>
 
-### 🖥 Technology Stack 🖥
+### Technology Stack 🖥
 
 <br/>
 
@@ -36,6 +36,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 </div>
+
+<br>
+<br>
+
+### Me 🙋🏻‍♂️
+
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/Blog-1A1A1A?style=flat-square&logo=Blog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</div>
+
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6dd5ed,100:2193b0&height=120)
 
