@@ -11,8 +11,8 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=box8741&theme=tokyonight&layout=compact&title_color=6dd5ed&border_color=2193b0&text_color=cccccc&card_width=440"/>
-
-  <div style='margin:14px auto 0 0;'>
+  <br>
+  <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Native-444444?style=flat-square&logo=React&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -37,11 +37,10 @@
 <br>
 <br/>
 
-<!-- <h3>Me 🙋🏻‍♂️</h3> -->
 <br/>
 <div align='right'>
   <a href='https://box8741.github.io/'><img src="https://img.shields.io/badge/Blog-1A1A1A?style=flat-square&logo=Blogger&logoColor=white"/></a>
-  <a href='https://box8741.github.io/'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--   <a href='https://box8741.github.io/'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
   <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbox8741&count_bg=%236DD5ED&title_bg=%234B4646&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false'/>
 </div>
 
