@@ -1,6 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&animation=fadeIn&height=300&text=Title&fontSize=54&desc=desc&fontColor=cccccc)
+<center>
 
-<!-- ## -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&animation=fadeIn&height=330&text=Min&fontSize=60&desc=Frontend%20Developer&fontColor=cccccc)
+
+![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=box8741&theme=tokyonight&title_color=6dd5ed&border_color=2193b0&text_color=cccccc)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=box8741&layout=compact)](https://github.com/box8741/github-readme-stats) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbox8741&count_bg=%236DD5ED&title_bg=%234B4646&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+<hr>
+<br/>
+
+## 🖥 Tech Stack 🖥
+
+<br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-444444?style=flat-square&logo=React&logoColor=61DAFB"/>
@@ -18,3 +32,5 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6dd5ed,100:2193b0&height=120)
+
+</center>
