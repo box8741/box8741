@@ -39,7 +39,7 @@
 
 <br/>
 <div align='right'>
-  <a href='https://box8741.github.io/'><img src="https://img.shields.io/badge/Blog-1A1A1A?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href='https://box8741.tistory.com/'><img src="https://img.shields.io/badge/Blog-1A1A1A?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <!--   <a href='https://box8741.github.io/'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
   <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbox8741&count_bg=%236DD5ED&title_bg=%234B4646&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false'/>
 </div>
