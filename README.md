@@ -5,7 +5,7 @@
   <br>
   <br>
   <div>
-    <h2> Engineer Stack 🖥 </h2>
+    <h2> Engineer Stack ☁️ </h2>
     <br>
     <div>
       <img src="https://img.shields.io/badge/AWS-FCC624?style=flat-square&logo=AWS&logoColor=black"/>
